@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Chukwuemeka Orji — a software dev exploring Python, JavaScript, and a lot of other web technologies.  <br>I build small but useful projects while learning best practices in coding, design, and problem-solving.<br><br>Current interests:<br>- APIs and backend logic  <br>- Frontend basics (HTML, CSS, JS, React.js)  <br>- Automation scripts  <br>- Simple CLI tools  <br><br>Always open to feedback and improvement.<br>
+I'm Chukwuemeka Orji — a backend engineer who loves building the processes behind every application you use!  <br>I build useful projects that help and ease our everyday lives<br><br>Current interests:<br>- APIs and backend logic  <br>- Frontend basics (HTML, CSS, JS, React.js)  <br>- Automation scripts  <br>- AI Agents<br><br>Always open to feedback and improvement.<br>
 
 
 ## 🌐 Socials:
