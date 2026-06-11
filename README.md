@@ -26,11 +26,12 @@ I'm Chukwuemeka Orji — a software and AI engineer who loves building the proce
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chukwuemekaorji&show_icons=true&theme=dark&hide_border=false&count_private=false&include_all_commits=false)
+![GitHub Stats](https://github-readme-stats-zeta-vert-60.vercel.app/api?username=chukwuemekaorji&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-zeta-vert-60.vercel.app/api/top-langs/?username=chukwuemekaorji&layout=compact&theme=dark&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chukwuemekaorji&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chukwuemekaorji&layout=compact&theme=dark&hide_border=false&count_private=false)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chukwuemekaorji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
