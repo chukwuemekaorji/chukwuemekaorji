@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="chukwuemekaorji's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 I'm Chukwuemeka Orji — a software and AI engineer who loves building the processes behind every application you use!  <br>I build useful projects that help and ease our everyday lives<br><br>Current interests:<br>- APIs and backend logic  <br>- Frontend (HTML, CSS, JS, React.js)  <br>- Automation scripts  <br>- AI Agents<br><br>Always open to feedback and improvement.<br>
 
